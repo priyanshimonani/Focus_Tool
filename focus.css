@@ -1,0 +1,10 @@
+#stopwatch{
+    border: 2px solid black;
+    width: 800px;
+    height: 500px;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+#stopwatch span{
+    font-size: 90px;
+}
